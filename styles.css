@@ -71,7 +71,7 @@ html{
   position: absolute;
   top: 20px;
   left: 35px;
-  animation: 6s red infinite;
+  animation: 13s red infinite;
   border: dotted 2px red;
   box-shadow:
     0 0 20px #111 inset,
@@ -89,7 +89,7 @@ html{
   position: absolute;
   top: 145px;
   left: 35px;
-  animation: 6s yellow infinite;
+  animation: 13s yellow infinite;
   box-shadow:
     0 0 20px #111 inset,
     0 0 10px yellow;
@@ -109,7 +109,7 @@ html{
   box-shadow:
     0 0 20px #111 inset,
     0 0 10px lime;
-  animation: 6s green infinite;
+  animation: 13s green infinite;
 }
 /*
 @keyframes red{
